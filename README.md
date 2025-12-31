@@ -1,2 +1,4 @@
-# Nexa-University
-"Nexa University is a cutting-edge digital university for Engineering &amp; Systems Research. Our curriculum combines advanced mathematics, theoretical depth, and practical labs, offering a level of rigor and research-readiness that surpasses traditional programs at MIT or Harvard."
+# Nexa University
+
+Nexa University is an elite, research-first academic institution built to surpass conventional engineering education. Its curriculum prioritizes mathematical rigor, processor and systems architecture, and early research immersion. Nexa prepares students for original scientific contribution, not standardized credentialing.
+
